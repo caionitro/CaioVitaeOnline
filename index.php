@@ -33,7 +33,7 @@
           <!-- ABOUT ME -->
           <div class="box">
             <h2>Sobre</h2>
-            <p>Nascido e residente em Maringá - PR. Com <?php echo (date('Y')-1987);?> anos, evangélico e sempre em busca de novos conhecimentos.</p>
+            <p>Nascido e residente em Maringá - PR. Com <?php echo (date('Y')-1987);?> anos, cristão e sempre em busca de novos conhecimentos.</p>
           </div>
           <!-- EDUCATION -->
           <div class="box">
