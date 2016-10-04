@@ -1,3 +1,4 @@
+//Esta eh uma função de callback
 var callback = function(){
 	$('.item-skills').each(function(){
 		newWidth = $(this).parent().width() * $(this).data('percent');
